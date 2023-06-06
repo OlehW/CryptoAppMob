@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">ApplicationCrypto</string>
+    <string name="main_full_name">mainBitcoin</string>
+    <string name="main_small_name">smallBitcoin</string>
+    <string name="main_price_name">$37 809,00</string>
+    <string name="main_prozent_name">+19,26%</string>
+
+    <string-array name="full_name">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Tether</item>
+        <item>USD Coin</item>
+        <item>Ripple</item>
+        <item>Cardano</item>
+        <item>Solana</item>
+        <item>TRON</item>
+        <item>Litecoin</item>
+        <item>Avalanche</item>
+        <item>Shiba Inu</item>
+        <item>Chainlink</item>
+        <item>Cosmos</item>
+        <item>Monero</item>
+        <item>Lumen</item>
+    </string-array>
+
+    <string-array name="small_name">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>USDT</item>
+        <item>USDC</item>
+        <item>XPP</item>
+        <item>ADA</item>
+        <item>SOL</item>
+        <item>TRX</item>
+        <item>LTC</item>
+        <item>AVAX</item>
+        <item>SHIB</item>
+        <item>LINK</item>
+        <item>ATOM</item>
+        <item>XMR</item>
+        <item>XLM</item>
+    </string-array>
+
+    <string-array name="price_name">
+        <item>$25 419.00</item>
+        <item>$1 776.00</item>
+        <item>$0.93</item>
+        <item>$0.93</item>
+        <item>$0.49</item>
+        <item>$0.35</item>
+        <item>$20.77</item>
+        <item>$0.77</item>
+        <item>$89.26</item>
+        <item>$13.88</item>
+        <item>$0.00009</item>
+        <item>$6.08</item>
+        <item>$10.04</item>
+        <item>$138.94</item>
+        <item>$0.08</item>
+    </string-array>
+
+    <string-array name="prozent_name">
+        <item>+0.33%</item>
+        <item>+0.38%</item>
+        <item>+0.09%</item>
+        <item>+0.07%</item>
+        <item>+2,95%</item>
+        <item>+1,47%</item>
+        <item>+5,11%</item>
+        <item>+0,66%</item>
+        <item>+1,00%</item>
+        <item>+2,36%</item>
+        <item>+0,62%</item>
+        <item>+1,95%</item>
+        <item>+0,77%</item>
+        <item>+0,86%</item>
+        <item>+0,01%</item>
+    </string-array>
+</resources>
